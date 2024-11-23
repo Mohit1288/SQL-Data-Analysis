@@ -21,7 +21,7 @@ This project involves:
 
 ## 🚀 **Technologies Used**
 - **Database**: MySQL
-- **Tools**: MySQL Workbench, CLI
+- **Tools**: MySQL Workbench, CLI.
 - **Dataset**: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
